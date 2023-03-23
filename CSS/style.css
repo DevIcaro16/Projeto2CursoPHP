@@ -1,0 +1,21 @@
+/*Para limitar o tamanho da img da navbar*/
+.navbar-brand img{
+
+    width: 50px;
+
+}
+
+/*Rodapé : */
+
+footer{
+
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    background-color: #000;
+    color: #FFF;
+    padding: 5px 0;
+
+
+}
